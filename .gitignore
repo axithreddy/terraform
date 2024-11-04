@@ -1,0 +1,10 @@
+.terraform/*
+
+#
+*.tfstate
+*.tfstate.*
+
+#may include sensitive data
+*.tfvars
+
+
